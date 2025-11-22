@@ -1,3 +1,6 @@
+<img width="1872" height="1035" alt="Screenshot 2025-11-22 232140" src="https://github.com/user-attachments/assets/b3cb5b25-7f0f-46ff-acbf-e9a66d9868ce" />
+
+
 # EX:6 Python OOP: Abstract Class & Method Example
 
 ##  AIM
